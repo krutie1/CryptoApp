@@ -35,7 +35,7 @@ extension HomeView {
                     CircleButtonAnimationView(animate: $showPortfolio)
                 )
             Spacer()
-            Text("Live Prices")
+            Text("Live Prices Commit")
                 .font(.headline)
                 .fontWeight(.heavy)
                 .foregroundColor(Color.theme.accent)
